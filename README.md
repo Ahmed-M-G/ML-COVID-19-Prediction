@@ -1,6 +1,6 @@
 # ML-COVID-19-Prediction
-  * This project will help determine whether or not a person will recover from coronavirus symptoms based on some predefined standard symptoms.
-  * These symptoms are based on guidelines provided by the World Health Organization (WHO).
+  * ## This project will help determine whether or not a person will recover from coronavirus symptoms based on some predefined standard symptoms.
+     - These symptoms are based on guidelines provided by the World Health Organization (WHO).
   
   * ## Dataset:
     - This dataset contains daily level information on the number of infected cases, deaths, and recoveries from the 2019 novel coronavirus.
